@@ -1,4 +1,4 @@
-# 📧 Email Sender Platform
+# 📧 Email Sender
 
 A simple and efficient platform to **streamline your communication** by sending emails to multiple recipients at once.
 Built with a clean interface, this app makes it easy to compose, manage, and send emails effortlessly.
