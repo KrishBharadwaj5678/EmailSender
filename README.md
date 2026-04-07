@@ -32,7 +32,7 @@ Built with a clean interface, this app makes it easy to compose, manage, and sen
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/KrishBharadwaj5678/Attendly.git
+git clone https://github.com/KrishBharadwaj5678/EmailSender.git
 ```
 
 ### 2️⃣ Navigate to the Project
